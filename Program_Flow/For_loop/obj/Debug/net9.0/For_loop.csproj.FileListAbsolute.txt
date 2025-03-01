@@ -1,0 +1,15 @@
+/home/krow/Learning_C_Sharp/Program_Flow/For_loop/bin/Debug/net9.0/For_loop
+/home/krow/Learning_C_Sharp/Program_Flow/For_loop/bin/Debug/net9.0/For_loop.deps.json
+/home/krow/Learning_C_Sharp/Program_Flow/For_loop/bin/Debug/net9.0/For_loop.runtimeconfig.json
+/home/krow/Learning_C_Sharp/Program_Flow/For_loop/bin/Debug/net9.0/For_loop.dll
+/home/krow/Learning_C_Sharp/Program_Flow/For_loop/bin/Debug/net9.0/For_loop.pdb
+/home/krow/Learning_C_Sharp/Program_Flow/For_loop/obj/Debug/net9.0/For_loop.GeneratedMSBuildEditorConfig.editorconfig
+/home/krow/Learning_C_Sharp/Program_Flow/For_loop/obj/Debug/net9.0/For_loop.AssemblyInfoInputs.cache
+/home/krow/Learning_C_Sharp/Program_Flow/For_loop/obj/Debug/net9.0/For_loop.AssemblyInfo.cs
+/home/krow/Learning_C_Sharp/Program_Flow/For_loop/obj/Debug/net9.0/For_loop.csproj.CoreCompileInputs.cache
+/home/krow/Learning_C_Sharp/Program_Flow/For_loop/obj/Debug/net9.0/For_loop.sourcelink.json
+/home/krow/Learning_C_Sharp/Program_Flow/For_loop/obj/Debug/net9.0/For_loop.dll
+/home/krow/Learning_C_Sharp/Program_Flow/For_loop/obj/Debug/net9.0/refint/For_loop.dll
+/home/krow/Learning_C_Sharp/Program_Flow/For_loop/obj/Debug/net9.0/For_loop.pdb
+/home/krow/Learning_C_Sharp/Program_Flow/For_loop/obj/Debug/net9.0/For_loop.genruntimeconfig.cache
+/home/krow/Learning_C_Sharp/Program_Flow/For_loop/obj/Debug/net9.0/ref/For_loop.dll
