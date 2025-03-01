@@ -1,0 +1,15 @@
+/home/krow/Learning_C_Sharp/Overview/Vars_DataTypes/obj/Debug/net9.0/Vars_DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/krow/Learning_C_Sharp/Overview/Vars_DataTypes/obj/Debug/net9.0/Vars_DataTypes.AssemblyInfoInputs.cache
+/home/krow/Learning_C_Sharp/Overview/Vars_DataTypes/obj/Debug/net9.0/Vars_DataTypes.AssemblyInfo.cs
+/home/krow/Learning_C_Sharp/Overview/Vars_DataTypes/obj/Debug/net9.0/Vars_DataTypes.csproj.CoreCompileInputs.cache
+/home/krow/Learning_C_Sharp/Overview/Vars_DataTypes/obj/Debug/net9.0/Vars_DataTypes.sourcelink.json
+/home/krow/Learning_C_Sharp/Overview/Vars_DataTypes/bin/Debug/net9.0/Vars_DataTypes
+/home/krow/Learning_C_Sharp/Overview/Vars_DataTypes/bin/Debug/net9.0/Vars_DataTypes.deps.json
+/home/krow/Learning_C_Sharp/Overview/Vars_DataTypes/bin/Debug/net9.0/Vars_DataTypes.runtimeconfig.json
+/home/krow/Learning_C_Sharp/Overview/Vars_DataTypes/bin/Debug/net9.0/Vars_DataTypes.dll
+/home/krow/Learning_C_Sharp/Overview/Vars_DataTypes/bin/Debug/net9.0/Vars_DataTypes.pdb
+/home/krow/Learning_C_Sharp/Overview/Vars_DataTypes/obj/Debug/net9.0/Vars_DataTypes.dll
+/home/krow/Learning_C_Sharp/Overview/Vars_DataTypes/obj/Debug/net9.0/refint/Vars_DataTypes.dll
+/home/krow/Learning_C_Sharp/Overview/Vars_DataTypes/obj/Debug/net9.0/Vars_DataTypes.pdb
+/home/krow/Learning_C_Sharp/Overview/Vars_DataTypes/obj/Debug/net9.0/Vars_DataTypes.genruntimeconfig.cache
+/home/krow/Learning_C_Sharp/Overview/Vars_DataTypes/obj/Debug/net9.0/ref/Vars_DataTypes.dll
