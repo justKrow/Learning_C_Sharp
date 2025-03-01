@@ -1,0 +1,15 @@
+/home/krow/Learning_C_Sharp/Program_Flow/Conditional_If/bin/Debug/net9.0/Conditional_If
+/home/krow/Learning_C_Sharp/Program_Flow/Conditional_If/bin/Debug/net9.0/Conditional_If.deps.json
+/home/krow/Learning_C_Sharp/Program_Flow/Conditional_If/bin/Debug/net9.0/Conditional_If.runtimeconfig.json
+/home/krow/Learning_C_Sharp/Program_Flow/Conditional_If/bin/Debug/net9.0/Conditional_If.dll
+/home/krow/Learning_C_Sharp/Program_Flow/Conditional_If/bin/Debug/net9.0/Conditional_If.pdb
+/home/krow/Learning_C_Sharp/Program_Flow/Conditional_If/obj/Debug/net9.0/Conditional_If.GeneratedMSBuildEditorConfig.editorconfig
+/home/krow/Learning_C_Sharp/Program_Flow/Conditional_If/obj/Debug/net9.0/Conditional_If.AssemblyInfoInputs.cache
+/home/krow/Learning_C_Sharp/Program_Flow/Conditional_If/obj/Debug/net9.0/Conditional_If.AssemblyInfo.cs
+/home/krow/Learning_C_Sharp/Program_Flow/Conditional_If/obj/Debug/net9.0/Conditional_If.csproj.CoreCompileInputs.cache
+/home/krow/Learning_C_Sharp/Program_Flow/Conditional_If/obj/Debug/net9.0/Conditional_If.sourcelink.json
+/home/krow/Learning_C_Sharp/Program_Flow/Conditional_If/obj/Debug/net9.0/Conditional_If.dll
+/home/krow/Learning_C_Sharp/Program_Flow/Conditional_If/obj/Debug/net9.0/refint/Conditional_If.dll
+/home/krow/Learning_C_Sharp/Program_Flow/Conditional_If/obj/Debug/net9.0/Conditional_If.pdb
+/home/krow/Learning_C_Sharp/Program_Flow/Conditional_If/obj/Debug/net9.0/Conditional_If.genruntimeconfig.cache
+/home/krow/Learning_C_Sharp/Program_Flow/Conditional_If/obj/Debug/net9.0/ref/Conditional_If.dll
