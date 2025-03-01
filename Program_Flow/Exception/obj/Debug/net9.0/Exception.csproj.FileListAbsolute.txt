@@ -1,0 +1,15 @@
+/home/krow/Learning_C_Sharp/Program_Flow/Exception/bin/Debug/net9.0/Exception
+/home/krow/Learning_C_Sharp/Program_Flow/Exception/bin/Debug/net9.0/Exception.deps.json
+/home/krow/Learning_C_Sharp/Program_Flow/Exception/bin/Debug/net9.0/Exception.runtimeconfig.json
+/home/krow/Learning_C_Sharp/Program_Flow/Exception/bin/Debug/net9.0/Exception.dll
+/home/krow/Learning_C_Sharp/Program_Flow/Exception/bin/Debug/net9.0/Exception.pdb
+/home/krow/Learning_C_Sharp/Program_Flow/Exception/obj/Debug/net9.0/Exception.GeneratedMSBuildEditorConfig.editorconfig
+/home/krow/Learning_C_Sharp/Program_Flow/Exception/obj/Debug/net9.0/Exception.AssemblyInfoInputs.cache
+/home/krow/Learning_C_Sharp/Program_Flow/Exception/obj/Debug/net9.0/Exception.AssemblyInfo.cs
+/home/krow/Learning_C_Sharp/Program_Flow/Exception/obj/Debug/net9.0/Exception.csproj.CoreCompileInputs.cache
+/home/krow/Learning_C_Sharp/Program_Flow/Exception/obj/Debug/net9.0/Exception.sourcelink.json
+/home/krow/Learning_C_Sharp/Program_Flow/Exception/obj/Debug/net9.0/Exception.dll
+/home/krow/Learning_C_Sharp/Program_Flow/Exception/obj/Debug/net9.0/refint/Exception.dll
+/home/krow/Learning_C_Sharp/Program_Flow/Exception/obj/Debug/net9.0/Exception.pdb
+/home/krow/Learning_C_Sharp/Program_Flow/Exception/obj/Debug/net9.0/Exception.genruntimeconfig.cache
+/home/krow/Learning_C_Sharp/Program_Flow/Exception/obj/Debug/net9.0/ref/Exception.dll
