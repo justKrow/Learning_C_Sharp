@@ -1,0 +1,15 @@
+/home/krow/Learning_C_Sharp/String/interpolation/bin/Debug/net9.0/interpolation
+/home/krow/Learning_C_Sharp/String/interpolation/bin/Debug/net9.0/interpolation.deps.json
+/home/krow/Learning_C_Sharp/String/interpolation/bin/Debug/net9.0/interpolation.runtimeconfig.json
+/home/krow/Learning_C_Sharp/String/interpolation/bin/Debug/net9.0/interpolation.dll
+/home/krow/Learning_C_Sharp/String/interpolation/bin/Debug/net9.0/interpolation.pdb
+/home/krow/Learning_C_Sharp/String/interpolation/obj/Debug/net9.0/interpolation.GeneratedMSBuildEditorConfig.editorconfig
+/home/krow/Learning_C_Sharp/String/interpolation/obj/Debug/net9.0/interpolation.AssemblyInfoInputs.cache
+/home/krow/Learning_C_Sharp/String/interpolation/obj/Debug/net9.0/interpolation.AssemblyInfo.cs
+/home/krow/Learning_C_Sharp/String/interpolation/obj/Debug/net9.0/interpolation.csproj.CoreCompileInputs.cache
+/home/krow/Learning_C_Sharp/String/interpolation/obj/Debug/net9.0/interpolation.sourcelink.json
+/home/krow/Learning_C_Sharp/String/interpolation/obj/Debug/net9.0/interpolation.dll
+/home/krow/Learning_C_Sharp/String/interpolation/obj/Debug/net9.0/refint/interpolation.dll
+/home/krow/Learning_C_Sharp/String/interpolation/obj/Debug/net9.0/interpolation.pdb
+/home/krow/Learning_C_Sharp/String/interpolation/obj/Debug/net9.0/interpolation.genruntimeconfig.cache
+/home/krow/Learning_C_Sharp/String/interpolation/obj/Debug/net9.0/ref/interpolation.dll
