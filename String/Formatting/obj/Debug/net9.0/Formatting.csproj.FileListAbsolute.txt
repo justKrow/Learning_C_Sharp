@@ -1,0 +1,15 @@
+/home/krow/Learning_C_Sharp/String/Formatting/obj/Debug/net9.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/home/krow/Learning_C_Sharp/String/Formatting/obj/Debug/net9.0/Formatting.AssemblyInfoInputs.cache
+/home/krow/Learning_C_Sharp/String/Formatting/obj/Debug/net9.0/Formatting.AssemblyInfo.cs
+/home/krow/Learning_C_Sharp/String/Formatting/obj/Debug/net9.0/Formatting.csproj.CoreCompileInputs.cache
+/home/krow/Learning_C_Sharp/String/Formatting/obj/Debug/net9.0/Formatting.sourcelink.json
+/home/krow/Learning_C_Sharp/String/Formatting/bin/Debug/net9.0/Formatting
+/home/krow/Learning_C_Sharp/String/Formatting/bin/Debug/net9.0/Formatting.deps.json
+/home/krow/Learning_C_Sharp/String/Formatting/bin/Debug/net9.0/Formatting.runtimeconfig.json
+/home/krow/Learning_C_Sharp/String/Formatting/bin/Debug/net9.0/Formatting.dll
+/home/krow/Learning_C_Sharp/String/Formatting/bin/Debug/net9.0/Formatting.pdb
+/home/krow/Learning_C_Sharp/String/Formatting/obj/Debug/net9.0/Formatting.dll
+/home/krow/Learning_C_Sharp/String/Formatting/obj/Debug/net9.0/refint/Formatting.dll
+/home/krow/Learning_C_Sharp/String/Formatting/obj/Debug/net9.0/Formatting.pdb
+/home/krow/Learning_C_Sharp/String/Formatting/obj/Debug/net9.0/Formatting.genruntimeconfig.cache
+/home/krow/Learning_C_Sharp/String/Formatting/obj/Debug/net9.0/ref/Formatting.dll
