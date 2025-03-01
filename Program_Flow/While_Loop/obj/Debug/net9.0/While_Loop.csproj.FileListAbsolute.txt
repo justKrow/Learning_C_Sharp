@@ -1,0 +1,15 @@
+/home/krow/Learning_C_Sharp/Program_Flow/While_Loop/bin/Debug/net9.0/While_Loop
+/home/krow/Learning_C_Sharp/Program_Flow/While_Loop/bin/Debug/net9.0/While_Loop.deps.json
+/home/krow/Learning_C_Sharp/Program_Flow/While_Loop/bin/Debug/net9.0/While_Loop.runtimeconfig.json
+/home/krow/Learning_C_Sharp/Program_Flow/While_Loop/bin/Debug/net9.0/While_Loop.dll
+/home/krow/Learning_C_Sharp/Program_Flow/While_Loop/bin/Debug/net9.0/While_Loop.pdb
+/home/krow/Learning_C_Sharp/Program_Flow/While_Loop/obj/Debug/net9.0/While_Loop.GeneratedMSBuildEditorConfig.editorconfig
+/home/krow/Learning_C_Sharp/Program_Flow/While_Loop/obj/Debug/net9.0/While_Loop.AssemblyInfoInputs.cache
+/home/krow/Learning_C_Sharp/Program_Flow/While_Loop/obj/Debug/net9.0/While_Loop.AssemblyInfo.cs
+/home/krow/Learning_C_Sharp/Program_Flow/While_Loop/obj/Debug/net9.0/While_Loop.csproj.CoreCompileInputs.cache
+/home/krow/Learning_C_Sharp/Program_Flow/While_Loop/obj/Debug/net9.0/While_Loop.sourcelink.json
+/home/krow/Learning_C_Sharp/Program_Flow/While_Loop/obj/Debug/net9.0/While_Loop.dll
+/home/krow/Learning_C_Sharp/Program_Flow/While_Loop/obj/Debug/net9.0/refint/While_Loop.dll
+/home/krow/Learning_C_Sharp/Program_Flow/While_Loop/obj/Debug/net9.0/While_Loop.pdb
+/home/krow/Learning_C_Sharp/Program_Flow/While_Loop/obj/Debug/net9.0/While_Loop.genruntimeconfig.cache
+/home/krow/Learning_C_Sharp/Program_Flow/While_Loop/obj/Debug/net9.0/ref/While_Loop.dll
