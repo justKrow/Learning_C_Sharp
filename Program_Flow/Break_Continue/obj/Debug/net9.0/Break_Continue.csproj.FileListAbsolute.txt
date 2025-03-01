@@ -1,0 +1,15 @@
+/home/krow/Learning_C_Sharp/Program_Flow/Break_Continue/obj/Debug/net9.0/Break_Continue.GeneratedMSBuildEditorConfig.editorconfig
+/home/krow/Learning_C_Sharp/Program_Flow/Break_Continue/obj/Debug/net9.0/Break_Continue.AssemblyInfoInputs.cache
+/home/krow/Learning_C_Sharp/Program_Flow/Break_Continue/obj/Debug/net9.0/Break_Continue.AssemblyInfo.cs
+/home/krow/Learning_C_Sharp/Program_Flow/Break_Continue/obj/Debug/net9.0/Break_Continue.csproj.CoreCompileInputs.cache
+/home/krow/Learning_C_Sharp/Program_Flow/Break_Continue/obj/Debug/net9.0/Break_Continue.sourcelink.json
+/home/krow/Learning_C_Sharp/Program_Flow/Break_Continue/bin/Debug/net9.0/Break_Continue
+/home/krow/Learning_C_Sharp/Program_Flow/Break_Continue/bin/Debug/net9.0/Break_Continue.deps.json
+/home/krow/Learning_C_Sharp/Program_Flow/Break_Continue/bin/Debug/net9.0/Break_Continue.runtimeconfig.json
+/home/krow/Learning_C_Sharp/Program_Flow/Break_Continue/bin/Debug/net9.0/Break_Continue.dll
+/home/krow/Learning_C_Sharp/Program_Flow/Break_Continue/bin/Debug/net9.0/Break_Continue.pdb
+/home/krow/Learning_C_Sharp/Program_Flow/Break_Continue/obj/Debug/net9.0/Break_Continue.dll
+/home/krow/Learning_C_Sharp/Program_Flow/Break_Continue/obj/Debug/net9.0/refint/Break_Continue.dll
+/home/krow/Learning_C_Sharp/Program_Flow/Break_Continue/obj/Debug/net9.0/Break_Continue.pdb
+/home/krow/Learning_C_Sharp/Program_Flow/Break_Continue/obj/Debug/net9.0/Break_Continue.genruntimeconfig.cache
+/home/krow/Learning_C_Sharp/Program_Flow/Break_Continue/obj/Debug/net9.0/ref/Break_Continue.dll
