@@ -1,0 +1,15 @@
+/home/krow/Learning_C_Sharp/String/Parsing/obj/Debug/net9.0/Parsing.GeneratedMSBuildEditorConfig.editorconfig
+/home/krow/Learning_C_Sharp/String/Parsing/obj/Debug/net9.0/Parsing.AssemblyInfoInputs.cache
+/home/krow/Learning_C_Sharp/String/Parsing/obj/Debug/net9.0/Parsing.AssemblyInfo.cs
+/home/krow/Learning_C_Sharp/String/Parsing/obj/Debug/net9.0/Parsing.csproj.CoreCompileInputs.cache
+/home/krow/Learning_C_Sharp/String/Parsing/obj/Debug/net9.0/Parsing.sourcelink.json
+/home/krow/Learning_C_Sharp/String/Parsing/bin/Debug/net9.0/Parsing
+/home/krow/Learning_C_Sharp/String/Parsing/bin/Debug/net9.0/Parsing.deps.json
+/home/krow/Learning_C_Sharp/String/Parsing/bin/Debug/net9.0/Parsing.runtimeconfig.json
+/home/krow/Learning_C_Sharp/String/Parsing/bin/Debug/net9.0/Parsing.dll
+/home/krow/Learning_C_Sharp/String/Parsing/bin/Debug/net9.0/Parsing.pdb
+/home/krow/Learning_C_Sharp/String/Parsing/obj/Debug/net9.0/Parsing.dll
+/home/krow/Learning_C_Sharp/String/Parsing/obj/Debug/net9.0/refint/Parsing.dll
+/home/krow/Learning_C_Sharp/String/Parsing/obj/Debug/net9.0/Parsing.pdb
+/home/krow/Learning_C_Sharp/String/Parsing/obj/Debug/net9.0/Parsing.genruntimeconfig.cache
+/home/krow/Learning_C_Sharp/String/Parsing/obj/Debug/net9.0/ref/Parsing.dll
