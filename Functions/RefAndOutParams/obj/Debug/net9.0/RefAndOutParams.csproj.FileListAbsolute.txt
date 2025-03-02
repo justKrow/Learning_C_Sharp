@@ -1,0 +1,15 @@
+/home/krow/Learning_C_Sharp/Functions/RefAndOutParams/bin/Debug/net9.0/RefAndOutParams
+/home/krow/Learning_C_Sharp/Functions/RefAndOutParams/bin/Debug/net9.0/RefAndOutParams.deps.json
+/home/krow/Learning_C_Sharp/Functions/RefAndOutParams/bin/Debug/net9.0/RefAndOutParams.runtimeconfig.json
+/home/krow/Learning_C_Sharp/Functions/RefAndOutParams/bin/Debug/net9.0/RefAndOutParams.dll
+/home/krow/Learning_C_Sharp/Functions/RefAndOutParams/bin/Debug/net9.0/RefAndOutParams.pdb
+/home/krow/Learning_C_Sharp/Functions/RefAndOutParams/obj/Debug/net9.0/RefAndOutParams.GeneratedMSBuildEditorConfig.editorconfig
+/home/krow/Learning_C_Sharp/Functions/RefAndOutParams/obj/Debug/net9.0/RefAndOutParams.AssemblyInfoInputs.cache
+/home/krow/Learning_C_Sharp/Functions/RefAndOutParams/obj/Debug/net9.0/RefAndOutParams.AssemblyInfo.cs
+/home/krow/Learning_C_Sharp/Functions/RefAndOutParams/obj/Debug/net9.0/RefAndOutParams.csproj.CoreCompileInputs.cache
+/home/krow/Learning_C_Sharp/Functions/RefAndOutParams/obj/Debug/net9.0/RefAndOutParams.sourcelink.json
+/home/krow/Learning_C_Sharp/Functions/RefAndOutParams/obj/Debug/net9.0/RefAndOutParams.dll
+/home/krow/Learning_C_Sharp/Functions/RefAndOutParams/obj/Debug/net9.0/refint/RefAndOutParams.dll
+/home/krow/Learning_C_Sharp/Functions/RefAndOutParams/obj/Debug/net9.0/RefAndOutParams.pdb
+/home/krow/Learning_C_Sharp/Functions/RefAndOutParams/obj/Debug/net9.0/RefAndOutParams.genruntimeconfig.cache
+/home/krow/Learning_C_Sharp/Functions/RefAndOutParams/obj/Debug/net9.0/ref/RefAndOutParams.dll
