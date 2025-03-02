@@ -1,0 +1,15 @@
+/home/krow/Learning_C_Sharp/Functions/MultiValues/obj/Debug/net9.0/MultiValues.GeneratedMSBuildEditorConfig.editorconfig
+/home/krow/Learning_C_Sharp/Functions/MultiValues/obj/Debug/net9.0/MultiValues.AssemblyInfoInputs.cache
+/home/krow/Learning_C_Sharp/Functions/MultiValues/obj/Debug/net9.0/MultiValues.AssemblyInfo.cs
+/home/krow/Learning_C_Sharp/Functions/MultiValues/obj/Debug/net9.0/MultiValues.csproj.CoreCompileInputs.cache
+/home/krow/Learning_C_Sharp/Functions/MultiValues/obj/Debug/net9.0/MultiValues.sourcelink.json
+/home/krow/Learning_C_Sharp/Functions/MultiValues/bin/Debug/net9.0/MultiValues
+/home/krow/Learning_C_Sharp/Functions/MultiValues/bin/Debug/net9.0/MultiValues.deps.json
+/home/krow/Learning_C_Sharp/Functions/MultiValues/bin/Debug/net9.0/MultiValues.runtimeconfig.json
+/home/krow/Learning_C_Sharp/Functions/MultiValues/bin/Debug/net9.0/MultiValues.dll
+/home/krow/Learning_C_Sharp/Functions/MultiValues/bin/Debug/net9.0/MultiValues.pdb
+/home/krow/Learning_C_Sharp/Functions/MultiValues/obj/Debug/net9.0/MultiValues.dll
+/home/krow/Learning_C_Sharp/Functions/MultiValues/obj/Debug/net9.0/refint/MultiValues.dll
+/home/krow/Learning_C_Sharp/Functions/MultiValues/obj/Debug/net9.0/MultiValues.pdb
+/home/krow/Learning_C_Sharp/Functions/MultiValues/obj/Debug/net9.0/MultiValues.genruntimeconfig.cache
+/home/krow/Learning_C_Sharp/Functions/MultiValues/obj/Debug/net9.0/ref/MultiValues.dll
