@@ -1,0 +1,15 @@
+/home/krow/Learning_C_Sharp/OOP/Defining/bin/Debug/net9.0/Defining
+/home/krow/Learning_C_Sharp/OOP/Defining/bin/Debug/net9.0/Defining.deps.json
+/home/krow/Learning_C_Sharp/OOP/Defining/bin/Debug/net9.0/Defining.runtimeconfig.json
+/home/krow/Learning_C_Sharp/OOP/Defining/bin/Debug/net9.0/Defining.dll
+/home/krow/Learning_C_Sharp/OOP/Defining/bin/Debug/net9.0/Defining.pdb
+/home/krow/Learning_C_Sharp/OOP/Defining/obj/Debug/net9.0/Defining.GeneratedMSBuildEditorConfig.editorconfig
+/home/krow/Learning_C_Sharp/OOP/Defining/obj/Debug/net9.0/Defining.AssemblyInfoInputs.cache
+/home/krow/Learning_C_Sharp/OOP/Defining/obj/Debug/net9.0/Defining.AssemblyInfo.cs
+/home/krow/Learning_C_Sharp/OOP/Defining/obj/Debug/net9.0/Defining.csproj.CoreCompileInputs.cache
+/home/krow/Learning_C_Sharp/OOP/Defining/obj/Debug/net9.0/Defining.sourcelink.json
+/home/krow/Learning_C_Sharp/OOP/Defining/obj/Debug/net9.0/Defining.dll
+/home/krow/Learning_C_Sharp/OOP/Defining/obj/Debug/net9.0/refint/Defining.dll
+/home/krow/Learning_C_Sharp/OOP/Defining/obj/Debug/net9.0/Defining.pdb
+/home/krow/Learning_C_Sharp/OOP/Defining/obj/Debug/net9.0/Defining.genruntimeconfig.cache
+/home/krow/Learning_C_Sharp/OOP/Defining/obj/Debug/net9.0/ref/Defining.dll
