@@ -1,0 +1,15 @@
+/home/krow/Learning_C_Sharp/Functions/DefaultParams/bin/Debug/net9.0/DefaultParams
+/home/krow/Learning_C_Sharp/Functions/DefaultParams/bin/Debug/net9.0/DefaultParams.deps.json
+/home/krow/Learning_C_Sharp/Functions/DefaultParams/bin/Debug/net9.0/DefaultParams.runtimeconfig.json
+/home/krow/Learning_C_Sharp/Functions/DefaultParams/bin/Debug/net9.0/DefaultParams.dll
+/home/krow/Learning_C_Sharp/Functions/DefaultParams/bin/Debug/net9.0/DefaultParams.pdb
+/home/krow/Learning_C_Sharp/Functions/DefaultParams/obj/Debug/net9.0/DefaultParams.GeneratedMSBuildEditorConfig.editorconfig
+/home/krow/Learning_C_Sharp/Functions/DefaultParams/obj/Debug/net9.0/DefaultParams.AssemblyInfoInputs.cache
+/home/krow/Learning_C_Sharp/Functions/DefaultParams/obj/Debug/net9.0/DefaultParams.AssemblyInfo.cs
+/home/krow/Learning_C_Sharp/Functions/DefaultParams/obj/Debug/net9.0/DefaultParams.csproj.CoreCompileInputs.cache
+/home/krow/Learning_C_Sharp/Functions/DefaultParams/obj/Debug/net9.0/DefaultParams.sourcelink.json
+/home/krow/Learning_C_Sharp/Functions/DefaultParams/obj/Debug/net9.0/DefaultParams.dll
+/home/krow/Learning_C_Sharp/Functions/DefaultParams/obj/Debug/net9.0/refint/DefaultParams.dll
+/home/krow/Learning_C_Sharp/Functions/DefaultParams/obj/Debug/net9.0/DefaultParams.pdb
+/home/krow/Learning_C_Sharp/Functions/DefaultParams/obj/Debug/net9.0/DefaultParams.genruntimeconfig.cache
+/home/krow/Learning_C_Sharp/Functions/DefaultParams/obj/Debug/net9.0/ref/DefaultParams.dll
