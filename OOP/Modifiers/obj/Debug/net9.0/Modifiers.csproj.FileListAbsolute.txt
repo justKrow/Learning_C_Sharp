@@ -1,0 +1,15 @@
+/home/krow/Learning_C_Sharp/OOP/Modifiers/bin/Debug/net9.0/Modifiers
+/home/krow/Learning_C_Sharp/OOP/Modifiers/bin/Debug/net9.0/Modifiers.deps.json
+/home/krow/Learning_C_Sharp/OOP/Modifiers/bin/Debug/net9.0/Modifiers.runtimeconfig.json
+/home/krow/Learning_C_Sharp/OOP/Modifiers/bin/Debug/net9.0/Modifiers.dll
+/home/krow/Learning_C_Sharp/OOP/Modifiers/bin/Debug/net9.0/Modifiers.pdb
+/home/krow/Learning_C_Sharp/OOP/Modifiers/obj/Debug/net9.0/Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+/home/krow/Learning_C_Sharp/OOP/Modifiers/obj/Debug/net9.0/Modifiers.AssemblyInfoInputs.cache
+/home/krow/Learning_C_Sharp/OOP/Modifiers/obj/Debug/net9.0/Modifiers.AssemblyInfo.cs
+/home/krow/Learning_C_Sharp/OOP/Modifiers/obj/Debug/net9.0/Modifiers.csproj.CoreCompileInputs.cache
+/home/krow/Learning_C_Sharp/OOP/Modifiers/obj/Debug/net9.0/Modifiers.sourcelink.json
+/home/krow/Learning_C_Sharp/OOP/Modifiers/obj/Debug/net9.0/Modifiers.dll
+/home/krow/Learning_C_Sharp/OOP/Modifiers/obj/Debug/net9.0/refint/Modifiers.dll
+/home/krow/Learning_C_Sharp/OOP/Modifiers/obj/Debug/net9.0/Modifiers.pdb
+/home/krow/Learning_C_Sharp/OOP/Modifiers/obj/Debug/net9.0/Modifiers.genruntimeconfig.cache
+/home/krow/Learning_C_Sharp/OOP/Modifiers/obj/Debug/net9.0/ref/Modifiers.dll
