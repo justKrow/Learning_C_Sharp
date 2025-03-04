@@ -1,0 +1,15 @@
+/home/krow/Learning_C_Sharp/OOP/Properties/obj/Debug/net9.0/Properties.GeneratedMSBuildEditorConfig.editorconfig
+/home/krow/Learning_C_Sharp/OOP/Properties/obj/Debug/net9.0/Properties.AssemblyInfoInputs.cache
+/home/krow/Learning_C_Sharp/OOP/Properties/obj/Debug/net9.0/Properties.AssemblyInfo.cs
+/home/krow/Learning_C_Sharp/OOP/Properties/obj/Debug/net9.0/Properties.csproj.CoreCompileInputs.cache
+/home/krow/Learning_C_Sharp/OOP/Properties/obj/Debug/net9.0/Properties.sourcelink.json
+/home/krow/Learning_C_Sharp/OOP/Properties/bin/Debug/net9.0/Properties
+/home/krow/Learning_C_Sharp/OOP/Properties/bin/Debug/net9.0/Properties.deps.json
+/home/krow/Learning_C_Sharp/OOP/Properties/bin/Debug/net9.0/Properties.runtimeconfig.json
+/home/krow/Learning_C_Sharp/OOP/Properties/bin/Debug/net9.0/Properties.dll
+/home/krow/Learning_C_Sharp/OOP/Properties/bin/Debug/net9.0/Properties.pdb
+/home/krow/Learning_C_Sharp/OOP/Properties/obj/Debug/net9.0/Properties.dll
+/home/krow/Learning_C_Sharp/OOP/Properties/obj/Debug/net9.0/refint/Properties.dll
+/home/krow/Learning_C_Sharp/OOP/Properties/obj/Debug/net9.0/Properties.pdb
+/home/krow/Learning_C_Sharp/OOP/Properties/obj/Debug/net9.0/Properties.genruntimeconfig.cache
+/home/krow/Learning_C_Sharp/OOP/Properties/obj/Debug/net9.0/ref/Properties.dll
