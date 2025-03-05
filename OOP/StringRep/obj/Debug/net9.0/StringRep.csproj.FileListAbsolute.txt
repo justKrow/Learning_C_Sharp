@@ -1,0 +1,15 @@
+/home/krow/Learning_C_Sharp/OOP/StringRep/bin/Debug/net9.0/StringRep
+/home/krow/Learning_C_Sharp/OOP/StringRep/bin/Debug/net9.0/StringRep.deps.json
+/home/krow/Learning_C_Sharp/OOP/StringRep/bin/Debug/net9.0/StringRep.runtimeconfig.json
+/home/krow/Learning_C_Sharp/OOP/StringRep/bin/Debug/net9.0/StringRep.dll
+/home/krow/Learning_C_Sharp/OOP/StringRep/bin/Debug/net9.0/StringRep.pdb
+/home/krow/Learning_C_Sharp/OOP/StringRep/obj/Debug/net9.0/StringRep.GeneratedMSBuildEditorConfig.editorconfig
+/home/krow/Learning_C_Sharp/OOP/StringRep/obj/Debug/net9.0/StringRep.AssemblyInfoInputs.cache
+/home/krow/Learning_C_Sharp/OOP/StringRep/obj/Debug/net9.0/StringRep.AssemblyInfo.cs
+/home/krow/Learning_C_Sharp/OOP/StringRep/obj/Debug/net9.0/StringRep.csproj.CoreCompileInputs.cache
+/home/krow/Learning_C_Sharp/OOP/StringRep/obj/Debug/net9.0/StringRep.sourcelink.json
+/home/krow/Learning_C_Sharp/OOP/StringRep/obj/Debug/net9.0/StringRep.dll
+/home/krow/Learning_C_Sharp/OOP/StringRep/obj/Debug/net9.0/refint/StringRep.dll
+/home/krow/Learning_C_Sharp/OOP/StringRep/obj/Debug/net9.0/StringRep.pdb
+/home/krow/Learning_C_Sharp/OOP/StringRep/obj/Debug/net9.0/StringRep.genruntimeconfig.cache
+/home/krow/Learning_C_Sharp/OOP/StringRep/obj/Debug/net9.0/ref/StringRep.dll
