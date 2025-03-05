@@ -1,0 +1,15 @@
+/home/krow/Learning_C_Sharp/OOP/Inheritence/obj/Debug/net9.0/Inheritence.GeneratedMSBuildEditorConfig.editorconfig
+/home/krow/Learning_C_Sharp/OOP/Inheritence/obj/Debug/net9.0/Inheritence.AssemblyInfoInputs.cache
+/home/krow/Learning_C_Sharp/OOP/Inheritence/obj/Debug/net9.0/Inheritence.AssemblyInfo.cs
+/home/krow/Learning_C_Sharp/OOP/Inheritence/obj/Debug/net9.0/Inheritence.csproj.CoreCompileInputs.cache
+/home/krow/Learning_C_Sharp/OOP/Inheritence/obj/Debug/net9.0/Inheritence.sourcelink.json
+/home/krow/Learning_C_Sharp/OOP/Inheritence/bin/Debug/net9.0/Inheritence
+/home/krow/Learning_C_Sharp/OOP/Inheritence/bin/Debug/net9.0/Inheritence.deps.json
+/home/krow/Learning_C_Sharp/OOP/Inheritence/bin/Debug/net9.0/Inheritence.runtimeconfig.json
+/home/krow/Learning_C_Sharp/OOP/Inheritence/bin/Debug/net9.0/Inheritence.dll
+/home/krow/Learning_C_Sharp/OOP/Inheritence/bin/Debug/net9.0/Inheritence.pdb
+/home/krow/Learning_C_Sharp/OOP/Inheritence/obj/Debug/net9.0/Inheritence.dll
+/home/krow/Learning_C_Sharp/OOP/Inheritence/obj/Debug/net9.0/refint/Inheritence.dll
+/home/krow/Learning_C_Sharp/OOP/Inheritence/obj/Debug/net9.0/Inheritence.pdb
+/home/krow/Learning_C_Sharp/OOP/Inheritence/obj/Debug/net9.0/Inheritence.genruntimeconfig.cache
+/home/krow/Learning_C_Sharp/OOP/Inheritence/obj/Debug/net9.0/ref/Inheritence.dll
